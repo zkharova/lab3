@@ -52,6 +52,7 @@ BMP-файл
 * Описание формата [BMP](https://ru.wikipedia.org/wiki/BMP)
 * Еще о [BMP](https://medium.com/sysf/bits-to-bitmaps-a-simple-walkthrough-of-bmp-image-format-765dc6857393)
 * Может пригодиться модуль [struct](https://docs.python.org/3/library/struct.html)
+* Может пригодиться метод [to_bytes](https://docs.python.org/3.2/library/stdtypes.html#int.to_bytes)
 * [Картинки](http://grafikus.ru/examples/parametric-functions-2d) 
 
 > **_ВАЖНО:_**
